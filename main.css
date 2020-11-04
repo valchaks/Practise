@@ -1,0 +1,28 @@
+.container {
+    height: 500px;
+    width: 500px;
+    border: solid 3px red;
+    overflow: hidden;
+    display: inline-block;
+}
+#button1 {
+    height: 50px;
+    width: 120px;
+    margin: 20px 20px 20px 20px;
+    left: 0px;
+    top: 0px;
+    color: white;
+    background-color: blue;
+    position: relative;
+}
+#button2 {
+    height: 50px;
+    width: 120px;
+    background-color: red;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 24px;
+    
+}
